@@ -26,17 +26,23 @@ I enjoy turning complex ideas into practical, maintainable software.
 
 ---
 
-### 🚀 Selected Projects
+### 🌟 Featured Projects
 
-**LivPal — Social & Communication Platform**
+#### [LivPal — Social & Communication Platform](https://livpal.app)
 
-A digital platform involving mobile applications, backend services, community features, and automated workflows.
+A mobile and web platform bringing together community spaces, communication features, backend services, and automated workflows.
 
-**BreezesStore — Digital Services Platform**
+**Focus:** Mobile applications · Backend APIs · Community features · Automation
 
-An online platform involving digital services, subscriptions, payment integrations, and operational management.
+*Source code is maintained privately.*
 
-*Additional commercial projects are maintained in private repositories.*
+#### [BreezesStore — Digital Services Platform](https://breezesstore.com)
+
+A digital services platform supporting subscriptions, payment integrations, and operational management.
+
+**Focus:** Web development · API integrations · Subscriptions · Payments
+
+*Source code is maintained privately.*
 
 ---
 
