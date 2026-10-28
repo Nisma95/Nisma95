@@ -1,6 +1,6 @@
 # Hi, I'm Nisma 👋
 
-### Full-Stack Developer | Mobile Applications | AI & Automation
+### Full-Stack & Middleware Engineer | Mobile Applications | AI & Automation
 
 I'm a self-taught software developer focused on building real-world digital products, scalable backend systems, and modern web and mobile applications.
 
@@ -12,15 +12,21 @@ I enjoy turning complex ideas into practical, maintainable software.
 
 ### 🛠 Tech Stack
 
-**Frontend:** JavaScript, TypeScript, React, Angular, HTML, CSS
+**Frontend:** JavaScript, TypeScript, React, Next.js, Angular, HTML, CSS
 
-**Backend:** Node.js, Express.js, REST APIs, Middleware
+**Backend:** Node.js, Express.js, REST APIs, PHP, Laravel
 
 **Mobile:** React Native, Expo, iOS & Android Development
 
 **Databases:** MongoDB, SQL
 
-**Development & Operations:** Git, GitHub, Cloudflare, Deployment, Integrations
+**Enterprise Middleware:** IBM MQ, IBM WebSphere Application Server (WAS), WebSphere Liberty, IBM HTTP Server, Java/J2EE, JMS, JDBC, JNDI
+
+**Middleware Operations:** DMGR, Clustering, High Availability, JVM Tuning, SSL/TLS, Performance Monitoring, Production Support
+
+**DevOps & Infrastructure:** Linux/Unix, AWS/Cloud, Git, GitHub, Jenkins, UrbanCode Deploy, CI/CD, Cloudflare, Deployments
+
+**Scripting & Automation:** Python, Bash, Jython, PowerShell
 
 **AI & Automation:** AI Integrations, Workflow Automation, API-Based Automation
 
@@ -50,6 +56,7 @@ A digital services platform supporting subscriptions, payment integrations, and 
 
 - Full-stack web application development
 - Backend architecture and API integrations
+- Enterprise middleware administration, IBM MQ messaging, and WebSphere application support
 - Cross-platform mobile applications
 - AI-powered features and workflow automation
 - Production deployment and system maintenance
@@ -66,6 +73,8 @@ Self-directed learning since 2019, using technical documentation and educational
 ### 🤝 Let's Connect
 
 I'm interested in collaborating on meaningful software products, solving technical challenges, and building reliable digital experiences.
+
+**CV & Portfolio:** [breezes95.com/cv](https://breezes95.com/cv)
 
 **GitHub:** [github.com/Nisma95](https://github.com/Nisma95)
 
